@@ -1,0 +1,30 @@
+body{
+   
+   background-color: #51f0cc;
+}
+
+#head{
+    
+}
+
+#title{
+    text-align: center;
+}
+#description{
+    text-align: center;
+    font-family: 'Baloo Da 2', cursive;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#main{
+    background-color: #288671;
+    border-radius: 20px;
+    justify-self: center;
+}
+
+#survey-form{
+    background-color: ;
+    padding: 1em;
+    font-family: tahoma
+}
